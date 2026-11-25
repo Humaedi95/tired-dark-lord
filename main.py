@@ -11,7 +11,8 @@ import os
 MONOLOGUE = (
     "Come in. Mind the third step\u2014it bites. I cursed it myself, back when "
     "spite still felt like fun. Sit. Not there. That chair keeps the last "
-    "hero. Young. Loud. Sure. I put him under the rose beds. They bloom well "
+    "hero. Young. Loud. Sure. "
+    "I put him under the rose beds. They bloom well "
     "now. The plan\u2014yes, still a plan. The crown, the eclipse, the seven "
     "seals, all of it. I have the maps, the keys. I have waited three hundred "
     "years, and I would honestly rather be in bed. But the eclipse comes "
